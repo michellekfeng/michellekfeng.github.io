@@ -4,13 +4,15 @@
 <style>
 
 head {
-        background-color: green;
+        background-color: #fffeb9;
         font-family: Helvetica;
         font-size: 36px;
 }
 
 body {
-        background-color: blue;
+        font-family: Helvetica;
+        font-size: 24px;
+        background-color: #fffeb9;
 }
 </style>
 </head>
